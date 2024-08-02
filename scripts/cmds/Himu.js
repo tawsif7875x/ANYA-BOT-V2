@@ -1,6 +1,6 @@
 module.exports = {
  config: {
- name: "mahi",
+ name: "himu",
  version: "1.0",
  author: "mahi", // hopeless 
  countDown: 5,
