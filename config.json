@@ -26,7 +26,7 @@
   "nickNameBot": "𝐀𝐍𝐘𝐀 𝐅𝐎𝐑𝐆𝐄𝐑 ❤️🪽",
   "prefix": ".",
   "database": {
-    "type": "mongodb",
+    "type": "json",
     "uriMongodb": "mongodb+srv://HIMU999FF:<password>@anya.6zdqxpx.mongodb.net/?retryWrites=true&w=majority&appName=ANYA",
     "autoSyncWhenStart": true,
     "autoRefreshThreadInfoFirstTime": true,
